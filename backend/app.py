@@ -22,9 +22,6 @@ def upload_image():
     image_path = os.path.join(UPLOAD_FOLDER, filename)
     image.save(image_path)
 
-    # Run AI detection to analyze the image
-    ai_result = ai_detection(image_path)
-
     # Compute perceptual hash for basic check
     image_hash = compute_hash(image_path)
 
@@ -33,8 +30,7 @@ def upload_image():
 
     return jsonify({
         "hash": image_hash,
-        "results": results,
-        "ai_result": ai_result  # Include AI analysis results
+        "results": results# Include AI analysis results
     })
 
 
