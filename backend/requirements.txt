@@ -3,3 +3,4 @@ flask-cors
 pillow
 imagehash
 opencv-python
+deepface

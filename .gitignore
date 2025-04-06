@@ -1,0 +1,26 @@
+# Node.js / React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Python / Flask
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/instance/
+backend/.pytest_cache/
+
+# Uploaded & database images
+backend/static/uploads/
+backend/static/database/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
