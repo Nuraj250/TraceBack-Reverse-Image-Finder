@@ -24,10 +24,10 @@ TraceBack is a full-stack web application built with **React** and **Flask** tha
 ## 🖼️ Preview
 
 ### 🔼 Upload Image
-![Upload](docs/screenshot-upload.png)
+![Upload](docs/screenshot-upload.jpeg)
 
 ### 📊 Matched Results
-![Results](docs/screenshot-results.png)
+![Results](docs/screenshot-results.jpeg)
 
 ---
 
