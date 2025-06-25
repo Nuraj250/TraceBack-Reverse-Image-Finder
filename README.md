@@ -119,5 +119,5 @@ traceback/
 
 ## 📜 License
 
-MIT © [Your Name](https://github.com/Nuraj250)
+MIT © [Nuraj](https://github.com/Nuraj250)
 ```
