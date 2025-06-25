@@ -46,7 +46,7 @@ TraceBack is a full-stack web application built with **React** and **Flask** tha
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/traceback.git
+git clone https://github.com/Nuraj250/traceback.git
 cd traceback
 ```
 
@@ -119,22 +119,5 @@ traceback/
 
 ## 📜 License
 
-MIT © [Your Name](https://github.com/your-username)
+MIT © [Your Name](https://github.com/Nuraj250)
 ```
-
----
-
-### 📸 Where to Put Screenshots
-
-1. Create this folder in your project:
-   ```
-   frontend/public/docs/
-   ```
-
-2. Add:
-   - `screenshot-upload.png`
-   - `screenshot-results.png`
-
-> If you want, send me the images you want to use, and I’ll crop/optimize them for you.
-
-Let me know if you also want a GitHub Actions CI setup or deployment guide next!
