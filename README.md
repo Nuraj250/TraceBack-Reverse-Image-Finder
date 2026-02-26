@@ -16,7 +16,7 @@ TraceBack is a full-stack web application built with **React** and **Flask** tha
 - 🧬 Perceptual hashing for fast comparisons
 - 🤖 AI image detection using DeepFace
 - 📊 Visual similarity indicators
-- 📁 Drag-and-drop upload
+- 📁 Drag and drop upload
 - 📤 Export results (CSV / PDF)
 
 ---
